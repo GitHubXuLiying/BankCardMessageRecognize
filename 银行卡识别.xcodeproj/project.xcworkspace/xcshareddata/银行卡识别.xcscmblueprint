@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "547917AE93E920EB2F46891CE975546EB25644C8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1E21D910984A9B8D3F3AE17AF55FAB15DECEEFC3" : 0,
+    "547917AE93E920EB2F46891CE975546EB25644C8" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C424FFD2-D613-46A4-B075-CB0128D460D4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1E21D910984A9B8D3F3AE17AF55FAB15DECEEFC3" : "",
+    "547917AE93E920EB2F46891CE975546EB25644C8" : "%E9%93%B6%E8%A1%8C%E5%8D%A1%E8%AF%86%E5%88%AB\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "银行卡识别",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "银行卡识别.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/GitHubXuLiying\/BankCard.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1E21D910984A9B8D3F3AE17AF55FAB15DECEEFC3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:xuliying\/%E9%93%B6%E8%A1%8C%E5%8D%A1%E8%AF%86%E5%88%AB.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "547917AE93E920EB2F46891CE975546EB25644C8"
+    }
+  ]
+}
