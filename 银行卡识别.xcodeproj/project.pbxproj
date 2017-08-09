@@ -16,6 +16,7 @@
 		5FE1F8C71C7B1D1C00FB98FF /* _____Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5FE1F8C61C7B1D1C00FB98FF /* _____Tests.m */; };
 		5FE1F8D21C7B1D1C00FB98FF /* _____UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5FE1F8D11C7B1D1C00FB98FF /* _____UITests.m */; };
 		5FE3841D1CFD9EEE009BA524 /* libXLYBankCardMessage.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5FE3841C1CFD9EEE009BA524 /* libXLYBankCardMessage.a */; };
+		5FE5DF441F3ABE1A006A5ED5 /* bank.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5FE5DF431F3ABE1A006A5ED5 /* bank.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		5FE1F8D31C7B1D1C00FB98FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5FE1F8DF1C7B1D3A00FB98FF /* XLYBankCardMessage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XLYBankCardMessage.h; sourceTree = "<group>"; };
 		5FE3841C1CFD9EEE009BA524 /* libXLYBankCardMessage.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libXLYBankCardMessage.a; sourceTree = "<group>"; };
+		5FE5DF431F3ABE1A006A5ED5 /* bank.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = bank.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 				5FE1F8B21C7B1D1C00FB98FF /* ViewController.h */,
 				5FE1F8B31C7B1D1C00FB98FF /* ViewController.m */,
 				5FE1F8DF1C7B1D3A00FB98FF /* XLYBankCardMessage.h */,
+				5FE5DF431F3ABE1A006A5ED5 /* bank.plist */,
 				5FE3841C1CFD9EEE009BA524 /* libXLYBankCardMessage.a */,
 				5FE1F8B51C7B1D1C00FB98FF /* Main.storyboard */,
 				5FE1F8B81C7B1D1C00FB98FF /* Assets.xcassets */,
@@ -249,6 +252,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5FE5DF441F3ABE1A006A5ED5 /* bank.plist in Resources */,
 				5FE1F8BC1C7B1D1C00FB98FF /* LaunchScreen.storyboard in Resources */,
 				5FE1F8B91C7B1D1C00FB98FF /* Assets.xcassets in Resources */,
 				5FE1F8B71C7B1D1C00FB98FF /* Main.storyboard in Resources */,
