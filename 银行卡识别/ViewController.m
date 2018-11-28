@@ -21,7 +21,7 @@
     self.view.backgroundColor = [UIColor lightGrayColor];
     
     
-   lab = [[UILabel alloc] initWithFrame:CGRectMake(0, 0, self.view.frame.size.width, 200)];
+    lab = [[UILabel alloc] initWithFrame:CGRectMake(0, 0, self.view.frame.size.width, 200)];
     [self.view addSubview:lab];
     lab.numberOfLines = 0;
     lab.textAlignment = NSTextAlignmentCenter;

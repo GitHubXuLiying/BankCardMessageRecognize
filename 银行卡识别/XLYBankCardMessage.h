@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+
 typedef NS_ENUM(NSInteger,ReturnBankCardMessageType){
     ReturnAll = 0, //发行行名称及机构代码、卡名、卡种
     ReturnBankName,//发行行名称
@@ -14,9 +15,11 @@ typedef NS_ENUM(NSInteger,ReturnBankCardMessageType){
     ReturnBankCardName,//卡名
     ReturnBankCardType,//卡种
 };
+
 @interface XLYBankCardMessage : NSObject
 
-+(instancetype)shareInstance;
--(NSString *)xlyBankCardMessageWithBankCardNumber:(NSString *)bankCardNumber returnBankCardMessageType:(ReturnBankCardMessageType)type;
++ (instancetype)shareInstance;
+
+- (NSString *)xlyBankCardMessageWithBankCardNumber:(NSString *)bankCardNumber returnBankCardMessageType:(ReturnBankCardMessageType)type;
 
 @end
